@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class AddNumbers {
     public static void main(String[] args) {
+    	int count;
         Scanner scanner = new Scanner(System.in);
 
         // Prompt the user to enter the first number
